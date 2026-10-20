@@ -1,0 +1,30 @@
+{
+  "name": "rubixkube",
+  "version": "2.2.1",
+  "description": "RubixKube from your AI tool: incidents, root cause analyses (RCAs) and Tasks across Kubernetes, VMs, AWS, GCP and Azure. Read what broke, report or close incidents, run an RCA again, create and assign Tasks, all recorded under your name.",
+  "author": {
+    "name": "RubixKube"
+  },
+  "homepage": "https://rubixkube.ai",
+  "repository": "https://github.com/rubixkube-io/rubixkube-for-ai",
+  "license": "MIT",
+  "keywords": [
+    "rubixkube",
+    "sre",
+    "incident-response",
+    "root-cause-analysis",
+    "rca",
+    "observability",
+    "kubernetes",
+    "aws",
+    "gcp",
+    "azure",
+    "platform-engineering"
+  ],
+  "mcpServers": {
+    "rubixkube": {
+      "type": "http",
+      "url": "https://mcp.rubixkube.ai/mcp"
+    }
+  }
+}

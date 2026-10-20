@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "rubixkube",
+  "description": "RubixKube from your AI tool: incidents, RCAs and Tasks across Kubernetes, VMs and cloud accounts.",
+  "owner": {
+    "name": "RubixKube",
+    "url": "https://rubixkube.ai"
+  },
+  "plugins": [
+    {
+      "name": "rubixkube",
+      "source": "./",
+      "description": "Eight skills (status, incidents, investigate, environments, tasks, rca, changes, knowledge), a read-only investigator agent, and the hosted MCP server with 25 tools, 4 prompts and 5 resources.",
+      "category": "monitoring",
+      "homepage": "https://github.com/rubixkube-io/rubixkube-for-ai"
+    }
+  ]
+}
